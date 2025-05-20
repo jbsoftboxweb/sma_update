@@ -1,0 +1,11 @@
+Student Marks Anlayzer (SMA)
+  Version : 3.01
+  Updated by JB Softbox
+  Releasing Date : --
+
+Latest Featuers
+    * New GUI
+    * Bar graph added
+    * Auto saving updated
+    * bugs fixed
+      & etc...
